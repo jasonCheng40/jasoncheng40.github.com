@@ -35,7 +35,7 @@ description: 面向小白的Github Page搭建方法.
 * 在浏览器中输入 *username.github.io* , 现在你就可以看到自己的博客的初稿了 (注：有的资料可能会说输入 *username.github.com* ，但其实这已经是过时的写法了。)
 
   如果看了上面这些过程后，你还是一脸懵逼，那说明可能你还缺少关于**Git**工具的了解，但        也没关系，请看下面这个链接，你会得到很大的帮助：
-  > 关于上述部分，我推荐大家去看一下csdn上的一篇博文[手把手教你用github pages搭建博客]        (http://blog.csdn.net/superjimmy/article/details/51626842) 。可以说，这篇博文的作者确实是      面向小白所写的教程，每一步都图文并茂，十分详细，但遗憾的是，对于这篇文章，我们只能看        到[博客搭建](http://blog.csdn.net/superjimmy/article/details/51626842#博客搭建)这部分，        后面对于jekyll的安装部分，作者的描述是有错误的。
+  > 关于上述部分，我推荐大家去看一下csdn上的一篇博文 [手把手教你用github pages搭建博客](http://blog.csdn.net/superjimmy/article/details/51626842)。可以说，这篇博文的作者确实是面向小白所写的教程，每一步都图文并茂，十分详细，但遗憾的是，对于这篇文章，我们只能看到[博客搭建](http://blog.csdn.net/superjimmy/article/details/51626842#博客搭建)这部分, 后面对于jekyll的安装部分，作者的描述是有错误的。
 
 ---
 
