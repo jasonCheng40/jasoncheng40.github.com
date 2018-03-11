@@ -1,6 +1,6 @@
 # Jekyll configuration
-name: Jason Cheng's Blog
-description: Welcome to Jason's Blog！
+name: Jason Cheng的博客
+description: 欢迎浏览Jason的博客！
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
@@ -17,7 +17,7 @@ date_format:
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
-lan: "en" 
+lan: "cn" 
 
 paginate: 10
 
