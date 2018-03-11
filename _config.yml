@@ -1,12 +1,6 @@
 # Jekyll configuration
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 9fbcaf08e09f4ed533aeee57630ebef13dac8e77
 name: Jason Cheng's Blog
 description: Welcome to Jason's Blog！
->>>>>>> d34cfb8be47d4c79da7efd82fed56d0bb84574db
 
 # url is currently only used only for the RSS feed in feed.xml
 url: https://github.com/zxixia/jekyll-xixia
