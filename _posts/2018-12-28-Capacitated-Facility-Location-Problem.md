@@ -31,35 +31,9 @@ The objective is to minimize the sum of the opening cost and the assignment cost
 
 ## Problem Modeling
 
-$ Facility \ Set  : \mathbf{I} = \{0, 1, 2, 3..., i-1 \} $
-$ Customer \ Set  :  \mathbf{J} = \{0, 1, 2, 3..., j-1\} $
-$ Customer_j \ 's \ Demand:\mathbf{D}_j,  \ j \in \mathbf{J} $
-$ Facility_i \ ' s \ Capacity : \mathbf{V}_i, \ i \in  \mathbf{I} $
-$ Facility_i \ ' s \ Opening \ Cost : \mathbf{C}_i, \ i \in  \mathbf{I} $
-$ Facility_i \ ' s \ Assignment \ Cost \ for \ Customer_j : \mathbf{ {A_i}_j }, \  i \in  \mathbf{I}, \  j \in \mathbf{J} ​$
-$ For \ every \ facility_i，i \in \mathbf{I}, \ define \ the \ following \ notations: $
-$$
-x_i = \begin{cases} 
-
-1, \ if \ facility_i \ is \ opened \\
-
-0,  \ otherwise
-
-\end{cases}
-$$
-$ For \ every \ facility_i, \ customer_j, \ i \in \mathbf{I}, \ j \in \mathbf{J}, \ defined:  $
-$$
-{y_i}_j = \begin{cases} 
-1, \ if \ customer_j \ is \ assigned \ to \ facility_i \\
-0,  \ otherwise
-\end{cases}
-$$
-$ Then \ the \ Problem \ can \ be \ expressed \ as \ following \ stuff: $
-$$
-\sum_{j \ \in \ \mathbf{J}}d_j {y_i}_j \ \le v_i x_i \\
-\sum_{i \ \in \ \mathbf{I}} {x_i}_j = 1\\
-min \{\sum_{i \ \in \ \mathbf{i}} c_ix_i + \sum_{j \ \in \ \mathbf{J}} {\sum_{i \ \in \ \mathbf{I}} {A_i}_j {y_i}_j } \}\\
-$$
+<div align="center" alt="Modeling">  
+  <img src="{{ site.baseurl }}/assets/images/modeling.png"/>
+</div>
 
 ---
 
@@ -142,9 +116,9 @@ $$
 
   ---
 
-  ## Algorithom
+## Algorithom
 
-  ### 1. Greedy Algorithom
+### 1. Greedy Algorithom
 
   * strategy taken:
 
