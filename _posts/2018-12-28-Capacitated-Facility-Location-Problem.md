@@ -32,7 +32,7 @@ The objective is to minimize the sum of the opening cost and the assignment cost
 ## Problem Modeling
 
 <div align="center" alt="Modeling">  
-  <img src="https://github.com/jasonCheng40/jasoncheng40.github.com/blob/master/assets/images/modeling.PNG"/>
+  <img src="{{ site.baseurl }}/assets/images/modeling.png"/>
 </div>
 
 ---
