@@ -36,7 +36,7 @@ $ Customer \ Set  :  \mathbf{J} = \{0, 1, 2, 3..., j-1\} $
 $ Customer_j \ 's \ Demand:\mathbf{D}_j,  \ j \in \mathbf{J} $
 $ Facility_i \ ' s \ Capacity : \mathbf{V}_i, \ i \in  \mathbf{I} $
 $ Facility_i \ ' s \ Opening \ Cost : \mathbf{C}_i, \ i \in  \mathbf{I} $
-$ Facility_i \ ' s \ Assignment \ Cost \ for \ Customer_j : \mathbf{{A_i}_j}, \  i \in  \mathbf{I}, \  j \in \mathbf{J} $
+$ Facility_i \ ' s \ Assignment \ Cost \ for \ Customer_j : \mathbf{ {A_i}_j }, \  i \in  \mathbf{I}, \  j \in \mathbf{J} ​$
 $ For \ every \ facility_i，i \in \mathbf{I}, \ define \ the \ following \ notations: $
 $$
 x_i = \begin{cases} 
@@ -88,7 +88,6 @@ $$
      };
      ```
 
-     ​
 
   2. Facility
 
