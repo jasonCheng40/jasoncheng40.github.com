@@ -929,7 +929,7 @@ The objective is to minimize the sum of the opening cost and the assignment cost
 
     ​
 
-### 2. Tabu Search
+### 2. Simulated Annealing
 
 * strategy taken:
 
